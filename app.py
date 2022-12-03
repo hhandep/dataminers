@@ -149,7 +149,7 @@ def get_choices():
             # Load combined_df
             data = pd.read_csv('data_and_sp500.csv')
             combined_df = data[tickers_list]
-            raw_data=pd.read_csv('us-shareprices-daily.csv', sep=';')
+            #raw_data=pd.read_csv('us-shareprices-daily.csv', sep=';')
             sharpe_data =pd.read_csv('sharpe_data.csv')
             # return object of objects
             return {

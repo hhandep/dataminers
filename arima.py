@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore")
 
 # from sklearn.metrics import mean_squared_error
 
-df = pd.read_csv('us-shareprices-daily.csv', sep=';')
+#df = pd.read_csv('us-shareprices-daily.csv', sep=';')
 
 def get_model_accuracy(data, ticker_symbol):
     

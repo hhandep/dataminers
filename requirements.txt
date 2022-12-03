@@ -1,0 +1,13 @@
+streamlit
+matplotlib
+folium
+pandas
+seaborn
+numpy
+plotly
+pyportfolioopt
+Pillow
+statsmodels
+sklearn
+
+

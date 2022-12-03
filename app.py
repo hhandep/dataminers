@@ -156,7 +156,7 @@ def get_choices():
                 'choices': choices,
                 'combined_df': combined_df,
                 'data': data,
-                'raw_data':raw_data,
+                #'raw_data':raw_data,
                 'sharpe_data':sharpe_data
             }
 
